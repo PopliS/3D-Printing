@@ -1,2 +1,2 @@
 # 3D Printing
- A bunch of stuff I have 3d printed using the splider cura
+ Projects that I have created in Solidworks/Blender and 3D printed using Cura
